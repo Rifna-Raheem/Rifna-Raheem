@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifna-raheem&label=Profile%20views&color=0e75b6&style=flat" alt="rifna-raheem" /> </p>
 
-- 🔭 I’m currently working on **trip schedular**
+- 🔭 I’m currently working on **a group project about trip schedular**
 
-- 🌱 I’m currently learning **Angular,React,NoSql,Kotlin**
+- 🌱 I’m currently learning **Python,Angular,AWS cloud,Genetic Algorithm,fundamentals of AI**
 
 - 💼 Connect with me on LinkedIn [www.linkedin.com/in/rifna-abdul-raheem-890aa5303](www.linkedin.com/in/rifna-abdul-raheem-890aa5303)
 
