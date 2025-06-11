@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a group project about trip schedular**
 
-- 🌱 I’m currently learning **Python,Angular,AWS cloud,Genetic Algorithm,fundamentals of AI**
+- 🌱 I’m currently learning **Python,Angular,AWS cloud,Genetic Algorithm,Fundamentals of AI**
 
 - 💼 Connect with me on LinkedIn [www.linkedin.com/in/rifna-abdul-raheem-890aa5303](www.linkedin.com/in/rifna-abdul-raheem-890aa5303)
 
